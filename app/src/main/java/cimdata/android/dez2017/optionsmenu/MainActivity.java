@@ -40,7 +40,7 @@ public class MainActivity extends AppCompatActivity {
             case R.id.menu_main_item_01:
                 Toast.makeText(
                         this,            // Kontext
-                        "Item fuktioniert immer noch",
+                        "Item fuktioniert immer noch foobar barfoo",
                         Toast.LENGTH_LONG       // Dauer der Anzeige
                 ).show();
                 break;
