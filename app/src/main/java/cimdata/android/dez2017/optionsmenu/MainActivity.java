@@ -40,7 +40,7 @@ public class MainActivity extends AppCompatActivity {
             case R.id.menu_main_item_01:
                 Toast.makeText(
                         this,            // Kontext
-                        "Item fuktioniert immer noch foobar barfoo new commit foolio exit",
+                        "Item fuktioniert immer noch foobar barfoo new commit foolio exit coolio",
                         Toast.LENGTH_LONG       // Dauer der Anzeige
                 ).show();
                 break;
